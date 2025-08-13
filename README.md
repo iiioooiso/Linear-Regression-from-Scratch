@@ -80,9 +80,8 @@ $$
 
 ```bash
 # Clone the repository
-git clone https://github.com/iiioooiso/Linear Regression from Scratch.git
-cd Linear Regression from Scratch
-
+git clone https://github.com/iiioooiso/Linear-Regression-from-Scratch.git
+cd Linear-Regression-from-Scratch
 # (Optional) Create virtual environment
 python -m venv venv
 source venv/bin/activate   # On Windows: venv\Scripts\activate
