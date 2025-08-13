@@ -1,6 +1,3 @@
-Here’s a **GitHub-ready `README.md`** with formulas, technical details, and clean formatting for your project:
-
----
 
 # Weather Temperature Prediction using Gradient Descent Linear Regression
 
